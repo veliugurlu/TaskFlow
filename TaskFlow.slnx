@@ -1,6 +1,10 @@
 <Solution>
+  <Folder Name="/Çözüm Öğeleri/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="TaskFlow.Api/TaskFlow.Api.csproj" />
   <Project Path="TaskFlow.Application/TaskFlow.Application.csproj" />
   <Project Path="TaskFlow.Domain/TaskFlow.Domain.csproj" />
   <Project Path="TaskFlow.Infrastructure/TaskFlow.Infrastructure.csproj" />
+  <Project Path="TaskFlow.Tests/TaskFlow.Tests.csproj" Id="e704bda5-b7a6-4994-bc4e-4dc58acd7ab1" />
 </Solution>

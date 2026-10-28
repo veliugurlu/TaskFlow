@@ -49,12 +49,3 @@ Clean Architecture'a uygun 4 katman. Bağımlılık içe doğru akar.
 | POST | /api/Tasks | Görev oluştur |
 | PUT/DELETE | /api/Tasks/{id} | Güncelle / sil |
 
-## Testler
-
-`TaskFlow.Tests` projesi içinde. Visual Studio'da **Test → Run All Tests**.
-
-## Yol haritası
-
-- Yorumlar ve proje üyeliği endpoint'leri
-- Refresh token
-- Docker desteği
